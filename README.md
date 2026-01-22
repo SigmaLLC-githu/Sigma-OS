@@ -1,2 +1,2 @@
-# Sigma-Linux
-Linux distro made by Sigma LLC
+# Sigma-OS
+Python OS like tool
